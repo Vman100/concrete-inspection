@@ -1,0 +1,4106 @@
+{
+    "train": [
+        {
+            "original_image": "/kaggle/working/predict/train/card_herstellen-betonrot-voorbereiding_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/card_herstellen-betonrot-voorbereiding_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/card_herstellen-betonrot-voorbereiding_mask_0.png",
+                    "label": "Popout",
+                    "score": "0.65234375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10006_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10006_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10006_jpg_mask_1.png",
+                    "label": "efflorescence",
+                    "score": "0.6796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-86_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-86_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-86_mask_2.png",
+                    "label": "Crack",
+                    "score": "0.62109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-86_mask_3.png",
+                    "label": "Crack",
+                    "score": "0.6015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-86_mask_4.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/How-To-Avoid-Defects-In-Concrete-Slabs03-650x488_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/How-To-Avoid-Defects-In-Concrete-Slabs03-650x488_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/How-To-Avoid-Defects-In-Concrete-Slabs03-650x488_mask_5.png",
+                    "label": "Popout",
+                    "score": "0.69140625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/old-cement-concrete-wall-texture-vintage-wall-background_526818-1094_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/old-cement-concrete-wall-texture-vintage-wall-background_526818-1094_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/old-cement-concrete-wall-texture-vintage-wall-background_526818-1094_mask_6.png",
+                    "label": "Popout",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/old-cement-concrete-wall-texture-vintage-wall-background_526818-1094_mask_7.png",
+                    "label": "Popout",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/old-cement-concrete-wall-texture-vintage-wall-background_526818-1094_mask_8.png",
+                    "label": "Popout",
+                    "score": "0.69921875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/1-s2_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/1-s2_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/1-s2_mask_9.png",
+                    "label": "Popout",
+                    "score": "0.5390625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10103_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10103_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10103_jpg_mask_10.png",
+                    "label": "efflorescence",
+                    "score": "0.71484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10103_jpg_mask_11.png",
+                    "label": "efflorescence",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10103_jpg_mask_12.png",
+                    "label": "efflorescence",
+                    "score": "0.78125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10103_jpg_mask_13.png",
+                    "label": "efflorescence",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10103_jpg_mask_14.png",
+                    "label": "efflorescence",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10103_jpg_mask_15.png",
+                    "label": "efflorescence",
+                    "score": "0.76171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10103_jpg_mask_16.png",
+                    "label": "efflorescence",
+                    "score": "0.828125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10103_jpg_mask_17.png",
+                    "label": "efflorescence",
+                    "score": "0.76953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10103_jpg_mask_18.png",
+                    "label": "efflorescence",
+                    "score": "0.76953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/4740-1610944637-115-bonnessinc1_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/4740-1610944637-115-bonnessinc1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/4740-1610944637-115-bonnessinc1_mask_19.png",
+                    "label": "efflorescence",
+                    "score": "0.73046875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/4740-1610944637-115-bonnessinc1_mask_20.png",
+                    "label": "efflorescence",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/4740-1610944637-115-bonnessinc1_mask_21.png",
+                    "label": "efflorescence",
+                    "score": "0.71875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/4740-1610944637-115-bonnessinc1_mask_22.png",
+                    "label": "efflorescence",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-17_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-17_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-17_mask_23.png",
+                    "label": "Crack",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-17_mask_24.png",
+                    "label": "Crack",
+                    "score": "0.6328125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-32_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-32_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-32_mask_25.png",
+                    "label": "Crack",
+                    "score": "0.640625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-134_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-134_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-134_mask_26.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-173_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-173_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-173_mask_27.png",
+                    "label": "Crack",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-173_mask_28.png",
+                    "label": "Crack",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-173_mask_29.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-173_mask_30.png",
+                    "label": "Crack",
+                    "score": "0.62109375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-74_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-74_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-74_mask_31.png",
+                    "label": "Crack",
+                    "score": "0.6484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-59_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-59_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-59_mask_32.png",
+                    "label": "Crack",
+                    "score": "0.70703125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-22_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-22_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-22_mask_33.png",
+                    "label": "Crack",
+                    "score": "0.80078125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-22_mask_34.png",
+                    "label": "Crack",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-22_mask_35.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/istockphoto-1430389981-2048x2048_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/istockphoto-1430389981-2048x2048_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/istockphoto-1430389981-2048x2048_mask_36.png",
+                    "label": "Popout",
+                    "score": "0.6875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/istockphoto-1430389981-2048x2048_mask_37.png",
+                    "label": "Popout",
+                    "score": "0.72265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/istockphoto-1430389981-2048x2048_mask_38.png",
+                    "label": "Popout",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/istockphoto-1430389981-2048x2048_mask_39.png",
+                    "label": "Popout",
+                    "score": "0.64453125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/istockphoto-1430389981-2048x2048_mask_40.png",
+                    "label": "Popout",
+                    "score": "0.7421875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-27_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-27_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-27_mask_41.png",
+                    "label": "Crack",
+                    "score": "0.6171875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-106_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-106_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-106_mask_42.png",
+                    "label": "Crack",
+                    "score": "0.7578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-97_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-97_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-97_mask_43.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-97_mask_44.png",
+                    "label": "Crack",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-97_mask_45.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-97_mask_46.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-97_mask_47.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-97_mask_48.png",
+                    "label": "Crack",
+                    "score": "0.6796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-99_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-99_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-99_mask_49.png",
+                    "label": "Crack",
+                    "score": "0.6328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-99_mask_50.png",
+                    "label": "Crack",
+                    "score": "0.625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-99_mask_51.png",
+                    "label": "Crack",
+                    "score": "0.59375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-99_mask_52.png",
+                    "label": "Crack",
+                    "score": "0.6328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-99_mask_53.png",
+                    "label": "Crack",
+                    "score": "0.6796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-151_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-151_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-151_mask_54.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-117_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-117_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-117_mask_55.png",
+                    "label": "Crack",
+                    "score": "0.63671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10029_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10029_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10029_jpg_mask_56.png",
+                    "label": "efflorescence",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10029_jpg_mask_57.png",
+                    "label": "efflorescence",
+                    "score": "0.74609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10029_jpg_mask_58.png",
+                    "label": "efflorescence",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10029_jpg_mask_59.png",
+                    "label": "efflorescence",
+                    "score": "0.73046875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/dalle-de-beton-02_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/dalle-de-beton-02_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_60.png",
+                    "label": "Popout",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_61.png",
+                    "label": "Popout",
+                    "score": "0.71484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_62.png",
+                    "label": "Popout",
+                    "score": "0.76171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_63.png",
+                    "label": "Popout",
+                    "score": "0.62890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_64.png",
+                    "label": "Popout",
+                    "score": "0.77734375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_65.png",
+                    "label": "Popout",
+                    "score": "0.875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_66.png",
+                    "label": "Popout",
+                    "score": "0.9453125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_67.png",
+                    "label": "Popout",
+                    "score": "0.91015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_68.png",
+                    "label": "Popout",
+                    "score": "0.9453125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_69.png",
+                    "label": "Popout",
+                    "score": "0.875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_70.png",
+                    "label": "Popout",
+                    "score": "0.171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_71.png",
+                    "label": "Popout",
+                    "score": "0.859375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_72.png",
+                    "label": "Popout",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_73.png",
+                    "label": "Popout",
+                    "score": "0.87890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_74.png",
+                    "label": "Popout",
+                    "score": "0.91796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_75.png",
+                    "label": "Popout",
+                    "score": "0.93359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_76.png",
+                    "label": "Popout",
+                    "score": "0.86328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_77.png",
+                    "label": "Popout",
+                    "score": "0.76171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_78.png",
+                    "label": "Popout",
+                    "score": "0.8125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_79.png",
+                    "label": "Popout",
+                    "score": "0.1640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_80.png",
+                    "label": "Popout",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_81.png",
+                    "label": "Popout",
+                    "score": "0.6171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/dalle-de-beton-02_mask_82.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-112_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-112_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-112_mask_83.png",
+                    "label": "Crack",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-112_mask_84.png",
+                    "label": "Crack",
+                    "score": "0.60546875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-112_mask_85.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-55_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-55_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-55_mask_86.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-60_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-60_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-60_mask_87.png",
+                    "label": "Crack",
+                    "score": "0.66796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-48_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-48_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-48_mask_88.png",
+                    "label": "Crack",
+                    "score": "0.578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-48_mask_89.png",
+                    "label": "Crack",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-48_mask_90.png",
+                    "label": "Crack",
+                    "score": "0.71875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/150621-9814169_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/150621-9814169_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_91.png",
+                    "label": "Popout",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_92.png",
+                    "label": "Popout",
+                    "score": "0.6875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_93.png",
+                    "label": "Popout",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_94.png",
+                    "label": "Popout",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_95.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_96.png",
+                    "label": "Popout",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_97.png",
+                    "label": "Popout",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_98.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_99.png",
+                    "label": "Popout",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_100.png",
+                    "label": "Popout",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/150621-9814169_mask_101.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/what-precautions-can-be-taken-to-prevent-efflorescence-1_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/what-precautions-can-be-taken-to-prevent-efflorescence-1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/what-precautions-can-be-taken-to-prevent-efflorescence-1_mask_102.png",
+                    "label": "efflorescence",
+                    "score": "0.5234375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-231_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-231_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-231_mask_103.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-231_mask_104.png",
+                    "label": "Crack",
+                    "score": "0.6015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-178_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-178_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-178_mask_105.png",
+                    "label": "Crack",
+                    "score": "0.625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-178_mask_106.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-57_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-57_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-57_mask_107.png",
+                    "label": "Crack",
+                    "score": "0.671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-25_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-25_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-25_mask_108.png",
+                    "label": "Crack",
+                    "score": "0.81640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-25_mask_109.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/stickers-hole-in-the-concrete_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/stickers-hole-in-the-concrete_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/stickers-hole-in-the-concrete_mask_110.png",
+                    "label": "Popout",
+                    "score": "0.69140625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/stickers-hole-in-the-concrete_mask_111.png",
+                    "label": "Popout",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/stickers-hole-in-the-concrete_mask_112.png",
+                    "label": "Popout",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/stickers-hole-in-the-concrete_mask_113.png",
+                    "label": "Popout",
+                    "score": "0.76171875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/PO2_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/PO2_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/PO2_mask_114.png",
+                    "label": "Popout",
+                    "score": "0.65234375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-64_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-64_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-64_mask_115.png",
+                    "label": "Crack",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-64_mask_116.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-157_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-157_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-157_mask_117.png",
+                    "label": "Crack",
+                    "score": "0.70703125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10158_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10158_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_118.png",
+                    "label": "efflorescence",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_119.png",
+                    "label": "efflorescence",
+                    "score": "0.69140625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_120.png",
+                    "label": "efflorescence",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_121.png",
+                    "label": "efflorescence",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_122.png",
+                    "label": "efflorescence",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_123.png",
+                    "label": "efflorescence",
+                    "score": "0.71875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_124.png",
+                    "label": "efflorescence",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_125.png",
+                    "label": "efflorescence",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_126.png",
+                    "label": "efflorescence",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10158_jpg_mask_127.png",
+                    "label": "efflorescence",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-54_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-54_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-54_mask_128.png",
+                    "label": "Crack",
+                    "score": "0.59375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-54_mask_129.png",
+                    "label": "Crack",
+                    "score": "0.70703125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-145_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-145_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-145_mask_130.png",
+                    "label": "Crack",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-145_mask_131.png",
+                    "label": "Crack",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-145_mask_132.png",
+                    "label": "Crack",
+                    "score": "0.6171875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-66_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-66_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-66_mask_133.png",
+                    "label": "Crack",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-66_mask_134.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-195_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-195_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-195_mask_135.png",
+                    "label": "Crack",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-195_mask_136.png",
+                    "label": "Crack",
+                    "score": "0.61328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-195_mask_137.png",
+                    "label": "Crack",
+                    "score": "0.6484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/crack-repair-047_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/crack-repair-047_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/crack-repair-047_mask_138.png",
+                    "label": "Popout",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/crack-repair-047_mask_139.png",
+                    "label": "Popout",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/crack-repair-047_mask_140.png",
+                    "label": "Crack",
+                    "score": "0.4765625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10140_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10140_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10140_jpg_mask_141.png",
+                    "label": "efflorescence",
+                    "score": "0.62890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10140_jpg_mask_142.png",
+                    "label": "efflorescence",
+                    "score": "0.734375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10140_jpg_mask_143.png",
+                    "label": "efflorescence",
+                    "score": "0.6640625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-40_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-40_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-40_mask_144.png",
+                    "label": "Crack",
+                    "score": "0.7578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/images-1-_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/images-1-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/images-1-_mask_145.png",
+                    "label": "Popout",
+                    "score": "0.6875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-1-_mask_146.png",
+                    "label": "Popout",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-1-_mask_147.png",
+                    "label": "Popout",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-1-_mask_148.png",
+                    "label": "Popout",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-1-_mask_149.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-1-_mask_150.png",
+                    "label": "Popout",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-1-_mask_151.png",
+                    "label": "Popout",
+                    "score": "0.68359375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-41_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-41_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-41_mask_152.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-41_mask_153.png",
+                    "label": "Crack",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-41_mask_154.png",
+                    "label": "Crack",
+                    "score": "0.6171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-41_mask_155.png",
+                    "label": "Crack",
+                    "score": "0.6875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/weird-atlantic-ocean-holes-meta_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/weird-atlantic-ocean-holes-meta_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/weird-atlantic-ocean-holes-meta_mask_156.png",
+                    "label": "Popout",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/weird-atlantic-ocean-holes-meta_mask_157.png",
+                    "label": "Popout",
+                    "score": "0.72265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/weird-atlantic-ocean-holes-meta_mask_158.png",
+                    "label": "Popout",
+                    "score": "0.63671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/weird-atlantic-ocean-holes-meta_mask_159.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-79_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-79_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-79_mask_160.png",
+                    "label": "Crack",
+                    "score": "0.6484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-79_mask_161.png",
+                    "label": "Crack",
+                    "score": "0.6484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-79_mask_162.png",
+                    "label": "Crack",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-79_mask_163.png",
+                    "label": "Crack",
+                    "score": "0.6328125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-2_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-2_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-2_mask_164.png",
+                    "label": "Crack",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-2_mask_165.png",
+                    "label": "Crack",
+                    "score": "0.6171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-2_mask_166.png",
+                    "label": "Crack",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-2_mask_167.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-2_mask_168.png",
+                    "label": "Crack",
+                    "score": "0.61328125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-17_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-17_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-17_mask_169.png",
+                    "label": "Crack",
+                    "score": "0.734375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-17_mask_170.png",
+                    "label": "Crack",
+                    "score": "0.73046875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-17_mask_171.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-17_mask_172.png",
+                    "label": "Crack",
+                    "score": "0.6171875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-33_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-33_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-33_mask_173.png",
+                    "label": "Crack",
+                    "score": "0.546875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-33_mask_174.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-33_mask_175.png",
+                    "label": "Crack",
+                    "score": "0.6875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10028_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10028_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10028_jpg_mask_176.png",
+                    "label": "efflorescence",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10028_jpg_mask_177.png",
+                    "label": "efflorescence",
+                    "score": "0.75390625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10028_jpg_mask_178.png",
+                    "label": "efflorescence",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10028_jpg_mask_179.png",
+                    "label": "efflorescence",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10028_jpg_mask_180.png",
+                    "label": "efflorescence",
+                    "score": "0.6875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10028_jpg_mask_181.png",
+                    "label": "efflorescence",
+                    "score": "0.609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10028_jpg_mask_182.png",
+                    "label": "efflorescence",
+                    "score": "0.63671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10028_jpg_mask_183.png",
+                    "label": "efflorescence",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10028_jpg_mask_184.png",
+                    "label": "efflorescence",
+                    "score": "0.69140625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10040_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10040_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10040_jpg_mask_185.png",
+                    "label": "efflorescence",
+                    "score": "0.76171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10040_jpg_mask_186.png",
+                    "label": "efflorescence",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10040_jpg_mask_187.png",
+                    "label": "efflorescence",
+                    "score": "0.734375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10040_jpg_mask_188.png",
+                    "label": "efflorescence",
+                    "score": "0.71875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10040_jpg_mask_189.png",
+                    "label": "efflorescence",
+                    "score": "0.75"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10040_jpg_mask_190.png",
+                    "label": "efflorescence",
+                    "score": "0.73046875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-21_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-21_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-21_mask_191.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/old-concrete-floor-in-black-and-white-color-cement-broken-dirty-background-texture-free-photo_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/old-concrete-floor-in-black-and-white-color-cement-broken-dirty-background-texture-free-photo_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/old-concrete-floor-in-black-and-white-color-cement-broken-dirty-background-texture-free-photo_mask_192.png",
+                    "label": "Popout",
+                    "score": "0.609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/old-concrete-floor-in-black-and-white-color-cement-broken-dirty-background-texture-free-photo_mask_193.png",
+                    "label": "Popout",
+                    "score": "0.69140625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_194.png",
+                    "label": "Popout",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_195.png",
+                    "label": "Popout",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_196.png",
+                    "label": "Popout",
+                    "score": "0.6875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_197.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_198.png",
+                    "label": "Crack",
+                    "score": "0.2109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_199.png",
+                    "label": "Crack",
+                    "score": "0.24609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_200.png",
+                    "label": "Crack",
+                    "score": "0.63671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_201.png",
+                    "label": "Crack",
+                    "score": "0.625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_202.png",
+                    "label": "Popout",
+                    "score": "0.71484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Distress-Investigation-pavement_mask_203.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/istockphoto-1414289046-2048x2048_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/istockphoto-1414289046-2048x2048_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/istockphoto-1414289046-2048x2048_mask_204.png",
+                    "label": "Popout",
+                    "score": "0.69921875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10180_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10180_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10180_jpg_mask_205.png",
+                    "label": "efflorescence",
+                    "score": "0.62890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10180_jpg_mask_206.png",
+                    "label": "efflorescence",
+                    "score": "0.671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10122_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10122_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10122_jpg_mask_207.png",
+                    "label": "efflorescence",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10122_jpg_mask_208.png",
+                    "label": "efflorescence",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10122_jpg_mask_209.png",
+                    "label": "efflorescence",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10122_jpg_mask_210.png",
+                    "label": "efflorescence",
+                    "score": "0.61328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10122_jpg_mask_211.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10122_jpg_mask_212.png",
+                    "label": "efflorescence",
+                    "score": "0.7734375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_213.png",
+                    "label": "Popout",
+                    "score": "0.76953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_214.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_215.png",
+                    "label": "Crack",
+                    "score": "0.8203125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_216.png",
+                    "label": "Crack",
+                    "score": "0.6484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_217.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_218.png",
+                    "label": "Popout",
+                    "score": "0.72265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_219.png",
+                    "label": "Popout",
+                    "score": "0.80859375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_220.png",
+                    "label": "Popout",
+                    "score": "0.859375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_221.png",
+                    "label": "Popout",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_222.png",
+                    "label": "Popout",
+                    "score": "0.90234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_223.png",
+                    "label": "Popout",
+                    "score": "0.90625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_224.png",
+                    "label": "Popout",
+                    "score": "0.79296875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_225.png",
+                    "label": "Popout",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_226.png",
+                    "label": "Popout",
+                    "score": "0.76171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_227.png",
+                    "label": "Popout",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_228.png",
+                    "label": "Popout",
+                    "score": "0.7421875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_229.png",
+                    "label": "Popout",
+                    "score": "0.6171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Getty-1155592658-Resize-Crop-DH-FHM-Why-Are-There-Holes-in-my-Concrete_mask_230.png",
+                    "label": "Popout",
+                    "score": "0.9453125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-47_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-47_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-47_mask_231.png",
+                    "label": "Crack",
+                    "score": "0.71484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-47_mask_232.png",
+                    "label": "Crack",
+                    "score": "0.6875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-36_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-36_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-36_mask_233.png",
+                    "label": "Crack",
+                    "score": "0.61328125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10087_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10087_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10087_jpg_mask_234.png",
+                    "label": "efflorescence",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10087_jpg_mask_235.png",
+                    "label": "efflorescence",
+                    "score": "0.671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10007_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10007_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_236.png",
+                    "label": "efflorescence",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_237.png",
+                    "label": "efflorescence",
+                    "score": "0.69140625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_238.png",
+                    "label": "efflorescence",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_239.png",
+                    "label": "efflorescence",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_240.png",
+                    "label": "efflorescence",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_241.png",
+                    "label": "efflorescence",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_242.png",
+                    "label": "efflorescence",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_243.png",
+                    "label": "efflorescence",
+                    "score": "0.72265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_244.png",
+                    "label": "efflorescence",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10007_jpg_mask_245.png",
+                    "label": "efflorescence",
+                    "score": "0.640625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-85_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-85_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-85_mask_246.png",
+                    "label": "Crack",
+                    "score": "0.71484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-85_mask_247.png",
+                    "label": "Crack",
+                    "score": "0.71484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/efflorescence_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/efflorescence_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/efflorescence_mask_248.png",
+                    "label": "efflorescence",
+                    "score": "0.71484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10008_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10008_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10008_jpg_mask_249.png",
+                    "label": "efflorescence",
+                    "score": "0.62109375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/CIP_40_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/CIP_40_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/CIP_40_mask_250.png",
+                    "label": "Popout",
+                    "score": "0.65625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-252_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-252_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-252_mask_251.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-252_mask_252.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-49_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-49_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-49_mask_253.png",
+                    "label": "Crack",
+                    "score": "0.69140625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-78_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-78_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-78_mask_254.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10043_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10043_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10043_jpg_mask_255.png",
+                    "label": "efflorescence",
+                    "score": "0.65625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-236_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-236_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-236_mask_256.png",
+                    "label": "Crack",
+                    "score": "0.64453125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-236_mask_257.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-236_mask_258.png",
+                    "label": "Crack",
+                    "score": "0.515625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/Mold-and-moss-growths-on-the-exposed-surface-of-a-concrete-retaining-wall_Q320_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/Mold-and-moss-growths-on-the-exposed-surface-of-a-concrete-retaining-wall_Q320_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/Mold-and-moss-growths-on-the-exposed-surface-of-a-concrete-retaining-wall_Q320_mask_259.png",
+                    "label": "Popout",
+                    "score": "0.7109375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10166_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10166_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10166_jpg_mask_260.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10166_jpg_mask_261.png",
+                    "label": "efflorescence",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10166_jpg_mask_262.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/Concrete-Popout-Best-Practices-Header-Photo_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/Concrete-Popout-Best-Practices-Header-Photo_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/Concrete-Popout-Best-Practices-Header-Photo_mask_263.png",
+                    "label": "Popout",
+                    "score": "0.66796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-86_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-86_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-86_mask_264.png",
+                    "label": "Crack",
+                    "score": "0.71484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-60_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-60_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-60_mask_265.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-60_mask_266.png",
+                    "label": "Crack",
+                    "score": "0.62890625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-9_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-9_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-9_mask_267.png",
+                    "label": "Crack",
+                    "score": "0.7109375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-225_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-225_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-225_mask_268.png",
+                    "label": "Crack",
+                    "score": "0.73046875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10112_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10112_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10112_jpg_mask_269.png",
+                    "label": "efflorescence",
+                    "score": "0.70703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10112_jpg_mask_270.png",
+                    "label": "efflorescence",
+                    "score": "0.78515625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_271.png",
+                    "label": "Popout",
+                    "score": "0.74609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_272.png",
+                    "label": "Popout",
+                    "score": "0.62109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_273.png",
+                    "label": "Popout",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_274.png",
+                    "label": "Popout",
+                    "score": "0.80859375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_275.png",
+                    "label": "Popout",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_276.png",
+                    "label": "Popout",
+                    "score": "0.63671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_277.png",
+                    "label": "Popout",
+                    "score": "0.5234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_278.png",
+                    "label": "Popout",
+                    "score": "0.69140625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_279.png",
+                    "label": "Popout",
+                    "score": "0.72265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_280.png",
+                    "label": "Popout",
+                    "score": "0.70703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_281.png",
+                    "label": "Popout",
+                    "score": "0.78125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_282.png",
+                    "label": "Popout",
+                    "score": "0.8515625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_283.png",
+                    "label": "Popout",
+                    "score": "0.69140625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_284.png",
+                    "label": "Popout",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_285.png",
+                    "label": "Popout",
+                    "score": "0.80078125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_286.png",
+                    "label": "Popout",
+                    "score": "0.86328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_287.png",
+                    "label": "Popout",
+                    "score": "0.6875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_288.png",
+                    "label": "Popout",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_289.png",
+                    "label": "Popout",
+                    "score": "0.84765625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_290.png",
+                    "label": "Popout",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_291.png",
+                    "label": "Popout",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_292.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_293.png",
+                    "label": "Popout",
+                    "score": "0.8515625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_294.png",
+                    "label": "Popout",
+                    "score": "0.74609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_295.png",
+                    "label": "Popout",
+                    "score": "0.86328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_296.png",
+                    "label": "Popout",
+                    "score": "0.24316406"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_297.png",
+                    "label": "Popout",
+                    "score": "0.89453125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_298.png",
+                    "label": "Popout",
+                    "score": "0.58984375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_299.png",
+                    "label": "Popout",
+                    "score": "0.8828125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_300.png",
+                    "label": "Popout",
+                    "score": "0.890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_301.png",
+                    "label": "Popout",
+                    "score": "0.71875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_302.png",
+                    "label": "Popout",
+                    "score": "0.765625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Gray-porous-concrete-507681168-_mask_303.png",
+                    "label": "Popout",
+                    "score": "0.29882812"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-67_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-67_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-67_mask_304.png",
+                    "label": "Crack",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-67_mask_305.png",
+                    "label": "Crack",
+                    "score": "0.6484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-67_mask_306.png",
+                    "label": "Crack",
+                    "score": "0.77734375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-67_mask_307.png",
+                    "label": "Crack",
+                    "score": "0.6796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/concrete-pop-outs-v0-g9qip9omq14d1_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/concrete-pop-outs-v0-g9qip9omq14d1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/concrete-pop-outs-v0-g9qip9omq14d1_mask_308.png",
+                    "label": "Popout",
+                    "score": "0.5859375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/concrete-pop-outs-v0-g9qip9omq14d1_mask_309.png",
+                    "label": "Popout",
+                    "score": "0.703125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-50_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-50_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-50_mask_310.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-50_mask_311.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/Paint-Peeling-Concrete-Efflorescence-v1_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/Paint-Peeling-Concrete-Efflorescence-v1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/Paint-Peeling-Concrete-Efflorescence-v1_mask_312.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Paint-Peeling-Concrete-Efflorescence-v1_mask_313.png",
+                    "label": "efflorescence",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Paint-Peeling-Concrete-Efflorescence-v1_mask_314.png",
+                    "label": "efflorescence",
+                    "score": "0.75390625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Paint-Peeling-Concrete-Efflorescence-v1_mask_315.png",
+                    "label": "efflorescence",
+                    "score": "0.68359375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/images-4-_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/images-4-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/images-4-_mask_316.png",
+                    "label": "Popout",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-4-_mask_317.png",
+                    "label": "Popout",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-4-_mask_318.png",
+                    "label": "Popout",
+                    "score": "0.5859375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-208_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-208_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-208_mask_319.png",
+                    "label": "Crack",
+                    "score": "0.6171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-208_mask_320.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/IMG_6977-1200x900_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/IMG_6977-1200x900_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/IMG_6977-1200x900_mask_321.png",
+                    "label": "efflorescence",
+                    "score": "0.67578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/patching-smalls-holes-in-concrete-driveway-v0-j0cmlj7q071c1_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/patching-smalls-holes-in-concrete-driveway-v0-j0cmlj7q071c1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/patching-smalls-holes-in-concrete-driveway-v0-j0cmlj7q071c1_mask_322.png",
+                    "label": "Popout",
+                    "score": "0.5390625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/patching-smalls-holes-in-concrete-driveway-v0-j0cmlj7q071c1_mask_323.png",
+                    "label": "Popout",
+                    "score": "0.7265625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10099_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10099_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10099_jpg_mask_324.png",
+                    "label": "efflorescence",
+                    "score": "0.64453125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-226_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-226_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-226_mask_325.png",
+                    "label": "Crack",
+                    "score": "0.625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-226_mask_326.png",
+                    "label": "Crack",
+                    "score": "0.671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-50_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-50_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-50_mask_327.png",
+                    "label": "Crack",
+                    "score": "0.65625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-211_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-211_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-211_mask_328.png",
+                    "label": "Crack",
+                    "score": "0.64453125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-211_mask_329.png",
+                    "label": "Crack",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-211_mask_330.png",
+                    "label": "Crack",
+                    "score": "0.6484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/80Gd9_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/80Gd9_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/80Gd9_mask_331.png",
+                    "label": "Popout",
+                    "score": "0.51953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/lignite-problems_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/lignite-problems_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/lignite-problems_mask_332.png",
+                    "label": "Popout",
+                    "score": "0.734375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/lignite-problems_mask_333.png",
+                    "label": "Popout",
+                    "score": "0.625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/lignite-problems_mask_334.png",
+                    "label": "Popout",
+                    "score": "0.68359375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-28_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-28_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-28_mask_335.png",
+                    "label": "Crack",
+                    "score": "0.7890625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-34_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-34_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-34_mask_336.png",
+                    "label": "Crack",
+                    "score": "0.37109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-34_mask_337.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-68_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-68_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-68_mask_338.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-68_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-68_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-68_mask_339.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-68_mask_340.png",
+                    "label": "Crack",
+                    "score": "0.6640625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/images-5-_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/images-5-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/images-5-_mask_341.png",
+                    "label": "Popout",
+                    "score": "0.6015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-5-_mask_342.png",
+                    "label": "Popout",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/images-5-_mask_343.png",
+                    "label": "Popout",
+                    "score": "0.640625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-86_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-86_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-86_mask_344.png",
+                    "label": "Crack",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-86_mask_345.png",
+                    "label": "Crack",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-86_mask_346.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-86_mask_347.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-47_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-47_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-47_mask_348.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-47_mask_349.png",
+                    "label": "Crack",
+                    "score": "0.7109375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/Moderate-popout-that-occurred-on-a-concrete-slab-on-grade_Q320_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/Moderate-popout-that-occurred-on-a-concrete-slab-on-grade_Q320_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/Moderate-popout-that-occurred-on-a-concrete-slab-on-grade_Q320_mask_350.png",
+                    "label": "Popout",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Moderate-popout-that-occurred-on-a-concrete-slab-on-grade_Q320_mask_351.png",
+                    "label": "Popout",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Moderate-popout-that-occurred-on-a-concrete-slab-on-grade_Q320_mask_352.png",
+                    "label": "Popout",
+                    "score": "0.7265625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-42_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-42_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-42_mask_353.png",
+                    "label": "Crack",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-42_mask_354.png",
+                    "label": "Crack",
+                    "score": "0.69140625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-42_mask_355.png",
+                    "label": "Crack",
+                    "score": "0.69140625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-98_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-98_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-98_mask_356.png",
+                    "label": "Crack",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-98_mask_357.png",
+                    "label": "Crack",
+                    "score": "0.63671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-216_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-216_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-216_mask_358.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7001-43_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7001-43_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7001-43_mask_359.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7001-43_mask_360.png",
+                    "label": "Crack",
+                    "score": "0.640625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/Efflorescence__FitMaxWzEyMDAsMTIwMF0_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/Efflorescence__FitMaxWzEyMDAsMTIwMF0_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/Efflorescence__FitMaxWzEyMDAsMTIwMF0_mask_361.png",
+                    "label": "efflorescence",
+                    "score": "0.70703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Efflorescence__FitMaxWzEyMDAsMTIwMF0_mask_362.png",
+                    "label": "efflorescence",
+                    "score": "0.71875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Efflorescence__FitMaxWzEyMDAsMTIwMF0_mask_363.png",
+                    "label": "efflorescence",
+                    "score": "0.20703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/Efflorescence__FitMaxWzEyMDAsMTIwMF0_mask_364.png",
+                    "label": "efflorescence",
+                    "score": "0.65625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-176_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-176_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-176_mask_365.png",
+                    "label": "Crack",
+                    "score": "0.62890625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/images-2-_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/images-2-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/images-2-_mask_366.png",
+                    "label": "Popout",
+                    "score": "0.73046875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10185_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10185_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10185_jpg_mask_367.png",
+                    "label": "efflorescence",
+                    "score": "0.73828125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10185_jpg_mask_368.png",
+                    "label": "efflorescence",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10185_jpg_mask_369.png",
+                    "label": "efflorescence",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10185_jpg_mask_370.png",
+                    "label": "efflorescence",
+                    "score": "0.44726562"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10185_jpg_mask_371.png",
+                    "label": "efflorescence",
+                    "score": "0.6484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10185_jpg_mask_372.png",
+                    "label": "efflorescence",
+                    "score": "0.6015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10185_jpg_mask_373.png",
+                    "label": "efflorescence",
+                    "score": "0.52734375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10185_jpg_mask_374.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10185_jpg_mask_375.png",
+                    "label": "efflorescence",
+                    "score": "0.72265625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10114_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10114_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10114_jpg_mask_376.png",
+                    "label": "efflorescence",
+                    "score": "0.60546875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10114_jpg_mask_377.png",
+                    "label": "efflorescence",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10114_jpg_mask_378.png",
+                    "label": "efflorescence",
+                    "score": "0.6640625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10024_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10024_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10024_jpg_mask_379.png",
+                    "label": "efflorescence",
+                    "score": "0.6875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10024_jpg_mask_380.png",
+                    "label": "efflorescence",
+                    "score": "0.63671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10024_jpg_mask_381.png",
+                    "label": "efflorescence",
+                    "score": "0.76171875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10024_jpg_mask_382.png",
+                    "label": "efflorescence",
+                    "score": "0.64453125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10024_jpg_mask_383.png",
+                    "label": "efflorescence",
+                    "score": "0.62890625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10190_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10190_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10190_jpg_mask_384.png",
+                    "label": "efflorescence",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10190_jpg_mask_385.png",
+                    "label": "efflorescence",
+                    "score": "0.73046875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10190_jpg_mask_386.png",
+                    "label": "efflorescence",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10190_jpg_mask_387.png",
+                    "label": "efflorescence",
+                    "score": "0.671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/Soumission_Renovation_efflorescence_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/Soumission_Renovation_efflorescence_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/Soumission_Renovation_efflorescence_mask_388.png",
+                    "label": "efflorescence",
+                    "score": "0.6640625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10012_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10012_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10012_jpg_mask_389.png",
+                    "label": "efflorescence",
+                    "score": "0.62890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10012_jpg_mask_390.png",
+                    "label": "efflorescence",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10012_jpg_mask_391.png",
+                    "label": "efflorescence",
+                    "score": "0.6484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10012_jpg_mask_392.png",
+                    "label": "efflorescence",
+                    "score": "0.6875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10012_jpg_mask_393.png",
+                    "label": "efflorescence",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10012_jpg_mask_394.png",
+                    "label": "efflorescence",
+                    "score": "0.75390625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10012_jpg_mask_395.png",
+                    "label": "efflorescence",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10012_jpg_mask_396.png",
+                    "label": "efflorescence",
+                    "score": "0.7265625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10042_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10042_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10042_jpg_mask_397.png",
+                    "label": "efflorescence",
+                    "score": "0.62890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10042_jpg_mask_398.png",
+                    "label": "efflorescence",
+                    "score": "0.08642578"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10042_jpg_mask_399.png",
+                    "label": "efflorescence",
+                    "score": "0.609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10042_jpg_mask_400.png",
+                    "label": "efflorescence",
+                    "score": "0.72265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10042_jpg_mask_401.png",
+                    "label": "efflorescence",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10042_jpg_mask_402.png",
+                    "label": "efflorescence",
+                    "score": "0.7109375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-119_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-119_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-119_mask_403.png",
+                    "label": "Crack",
+                    "score": "0.62109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-119_mask_404.png",
+                    "label": "Crack",
+                    "score": "0.64453125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-119_mask_405.png",
+                    "label": "Crack",
+                    "score": "0.60546875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-119_mask_406.png",
+                    "label": "Crack",
+                    "score": "0.625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/concrete-rock-pop-outs-typically-appear_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/concrete-rock-pop-outs-typically-appear_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/concrete-rock-pop-outs-typically-appear_mask_407.png",
+                    "label": "Popout",
+                    "score": "0.67578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-14_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-14_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-14_mask_408.png",
+                    "label": "Crack",
+                    "score": "0.671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/images-8-_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/images-8-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/images-8-_mask_409.png",
+                    "label": "Popout",
+                    "score": "0.67578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-163_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-163_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-163_mask_410.png",
+                    "label": "Crack",
+                    "score": "0.69140625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-163_mask_411.png",
+                    "label": "Crack",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7003-163_mask_412.png",
+                    "label": "Crack",
+                    "score": "0.64453125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/d9JA_pYYkhvr2MaAyxf5yrXu-abFjaVLU2y8fzVM-UM_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/d9JA_pYYkhvr2MaAyxf5yrXu-abFjaVLU2y8fzVM-UM_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/d9JA_pYYkhvr2MaAyxf5yrXu-abFjaVLU2y8fzVM-UM_mask_413.png",
+                    "label": "Popout",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/d9JA_pYYkhvr2MaAyxf5yrXu-abFjaVLU2y8fzVM-UM_mask_414.png",
+                    "label": "Popout",
+                    "score": "0.78515625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/d9JA_pYYkhvr2MaAyxf5yrXu-abFjaVLU2y8fzVM-UM_mask_415.png",
+                    "label": "Popout",
+                    "score": "0.71484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/d9JA_pYYkhvr2MaAyxf5yrXu-abFjaVLU2y8fzVM-UM_mask_416.png",
+                    "label": "Popout",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/d9JA_pYYkhvr2MaAyxf5yrXu-abFjaVLU2y8fzVM-UM_mask_417.png",
+                    "label": "Popout",
+                    "score": "0.7890625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7002-104_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7002-104_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7002-104_mask_418.png",
+                    "label": "Crack",
+                    "score": "0.625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-104_mask_419.png",
+                    "label": "Crack",
+                    "score": "0.63671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-104_mask_420.png",
+                    "label": "Crack",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-104_mask_421.png",
+                    "label": "Crack",
+                    "score": "0.79296875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-104_mask_422.png",
+                    "label": "Crack",
+                    "score": "0.66796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/7002-104_mask_423.png",
+                    "label": "Crack",
+                    "score": "0.73046875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-62_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-62_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-62_mask_424.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10178_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10178_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10178_jpg_mask_425.png",
+                    "label": "efflorescence",
+                    "score": "0.67578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/images-7-_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/images-7-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/images-7-_mask_426.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-35_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-35_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-35_mask_427.png",
+                    "label": "Crack",
+                    "score": "0.51171875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/10000_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/10000_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/10000_jpg_mask_428.png",
+                    "label": "efflorescence",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10000_jpg_mask_429.png",
+                    "label": "efflorescence",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10000_jpg_mask_430.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10000_jpg_mask_431.png",
+                    "label": "efflorescence",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10000_jpg_mask_432.png",
+                    "label": "efflorescence",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/train/10000_jpg_mask_433.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/concrete-popout-2_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/concrete-popout-2_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/concrete-popout-2_mask_434.png",
+                    "label": "Popout",
+                    "score": "0.63671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/train/7003-166_original.jpg",
+            "comparsion": "/kaggle/working/predict/train/7003-166_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/train/7003-166_mask_435.png",
+                    "label": "Crack",
+                    "score": "0.63671875"
+                }
+            ]
+        }
+    ],
+    "test": [
+        {
+            "original_image": "/kaggle/working/predict/test/7003-229_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7003-229_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7003-229_mask_0.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/7003-229_mask_1.png",
+                    "label": "Crack",
+                    "score": "0.6328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/7003-229_mask_2.png",
+                    "label": "Crack",
+                    "score": "0.64453125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/7002-32_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7002-32_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7002-32_mask_3.png",
+                    "label": "Crack",
+                    "score": "0.73828125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/images_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/images_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/images_mask_4.png",
+                    "label": "Popout",
+                    "score": "0.67578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/7001-237_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7001-237_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7001-237_mask_5.png",
+                    "label": "Crack",
+                    "score": "0.74609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/7001-237_mask_6.png",
+                    "label": "Crack",
+                    "score": "0.6796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/7003-210_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7003-210_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7003-210_mask_7.png",
+                    "label": "Crack",
+                    "score": "0.63671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/10027_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/10027_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/10027_jpg_mask_8.png",
+                    "label": "efflorescence",
+                    "score": "0.71484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/what-factors-cause-ffflorescence-in-concrete_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/what-factors-cause-ffflorescence-in-concrete_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/what-factors-cause-ffflorescence-in-concrete_mask_9.png",
+                    "label": "efflorescence",
+                    "score": "0.71875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/images-9-_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/images-9-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/images-9-_mask_10.png",
+                    "label": "Popout",
+                    "score": "0.73828125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/images-9-_mask_11.png",
+                    "label": "Popout",
+                    "score": "0.5859375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/images-9-_mask_12.png",
+                    "label": "Popout",
+                    "score": "0.59375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/images-9-_mask_13.png",
+                    "label": "Popout",
+                    "score": "0.6015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/images-9-_mask_14.png",
+                    "label": "Popout",
+                    "score": "0.7265625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/7002-212_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7002-212_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7002-212_mask_15.png",
+                    "label": "Crack",
+                    "score": "0.70703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/7002-212_mask_16.png",
+                    "label": "Crack",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/7002-212_mask_17.png",
+                    "label": "Crack",
+                    "score": "0.671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/3-different-cement-plaster-walls-checking-for-asbestos-how-v0-s0xlgmba8a3a1_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/3-different-cement-plaster-walls-checking-for-asbestos-how-v0-s0xlgmba8a3a1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/3-different-cement-plaster-walls-checking-for-asbestos-how-v0-s0xlgmba8a3a1_mask_18.png",
+                    "label": "Popout",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/3-different-cement-plaster-walls-checking-for-asbestos-how-v0-s0xlgmba8a3a1_mask_19.png",
+                    "label": "Popout",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/efflorescence-through-warehouse-floor-v0-y84sh8ptya1d1_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/efflorescence-through-warehouse-floor-v0-y84sh8ptya1d1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/efflorescence-through-warehouse-floor-v0-y84sh8ptya1d1_mask_20.png",
+                    "label": "efflorescence",
+                    "score": "0.65625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/7001-169_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7001-169_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7001-169_mask_21.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/old-cement-wall-background_633872-2023_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/old-cement-wall-background_633872-2023_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/old-cement-wall-background_633872-2023_mask_22.png",
+                    "label": "Popout",
+                    "score": "0.625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/7003-227_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7003-227_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7003-227_mask_23.png",
+                    "label": "Crack",
+                    "score": "0.65625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/capture-decran-2021-09-16-a-09_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/capture-decran-2021-09-16-a-09_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/capture-decran-2021-09-16-a-09_mask_24.png",
+                    "label": "efflorescence",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/capture-decran-2021-09-16-a-09_mask_25.png",
+                    "label": "efflorescence",
+                    "score": "0.71484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/capture-decran-2021-09-16-a-09_mask_26.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/capture-decran-2021-09-16-a-09_mask_27.png",
+                    "label": "efflorescence",
+                    "score": "0.74609375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/7001-187_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7001-187_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7001-187_mask_28.png",
+                    "label": "Crack",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/7001-187_mask_29.png",
+                    "label": "Crack",
+                    "score": "0.70703125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/10154_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/10154_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/10154_jpg_mask_30.png",
+                    "label": "efflorescence",
+                    "score": "0.62890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/10154_jpg_mask_31.png",
+                    "label": "efflorescence",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/10154_jpg_mask_32.png",
+                    "label": "efflorescence",
+                    "score": "0.6484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/10154_jpg_mask_33.png",
+                    "label": "efflorescence",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/10154_jpg_mask_34.png",
+                    "label": "efflorescence",
+                    "score": "0.62890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/10154_jpg_mask_35.png",
+                    "label": "efflorescence",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/10154_jpg_mask_36.png",
+                    "label": "efflorescence",
+                    "score": "0.6484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/7001-115_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7001-115_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7001-115_mask_37.png",
+                    "label": "Crack",
+                    "score": "0.58203125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/7001-115_mask_38.png",
+                    "label": "Crack",
+                    "score": "0.65625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/7002-190_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/7002-190_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/7002-190_mask_39.png",
+                    "label": "Crack",
+                    "score": "0.7421875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/test/a-Pop-outs-near-the-drain-channel-b-crushed-aggregate-particles-with-gel-in-the-bottom_Q320_original.jpg",
+            "comparsion": "/kaggle/working/predict/test/a-Pop-outs-near-the-drain-channel-b-crushed-aggregate-particles-with-gel-in-the-bottom_Q320_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/test/a-Pop-outs-near-the-drain-channel-b-crushed-aggregate-particles-with-gel-in-the-bottom_Q320_mask_40.png",
+                    "label": "Popout",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/a-Pop-outs-near-the-drain-channel-b-crushed-aggregate-particles-with-gel-in-the-bottom_Q320_mask_41.png",
+                    "label": "Popout",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/a-Pop-outs-near-the-drain-channel-b-crushed-aggregate-particles-with-gel-in-the-bottom_Q320_mask_42.png",
+                    "label": "Popout",
+                    "score": "0.6875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/a-Pop-outs-near-the-drain-channel-b-crushed-aggregate-particles-with-gel-in-the-bottom_Q320_mask_43.png",
+                    "label": "Popout",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/a-Pop-outs-near-the-drain-channel-b-crushed-aggregate-particles-with-gel-in-the-bottom_Q320_mask_44.png",
+                    "label": "Popout",
+                    "score": "0.62890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/a-Pop-outs-near-the-drain-channel-b-crushed-aggregate-particles-with-gel-in-the-bottom_Q320_mask_45.png",
+                    "label": "Popout",
+                    "score": "0.63671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/test/a-Pop-outs-near-the-drain-channel-b-crushed-aggregate-particles-with-gel-in-the-bottom_Q320_mask_46.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                }
+            ]
+        }
+    ],
+    "valid": [
+        {
+            "original_image": "/kaggle/working/predict/valid/7001-56_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7001-56_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7001-56_mask_0.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7003-230_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7003-230_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-230_mask_1.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-230_mask_2.png",
+                    "label": "Crack",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-230_mask_3.png",
+                    "label": "Crack",
+                    "score": "0.66796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/1-s2_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/1-s2_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/1-s2_mask_4.png",
+                    "label": "Popout",
+                    "score": "0.515625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-63_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-63_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-63_mask_5.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-63_mask_6.png",
+                    "label": "Crack",
+                    "score": "0.578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-63_mask_7.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-63_mask_8.png",
+                    "label": "Crack",
+                    "score": "0.7890625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/Pitted-concrete-driveway_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/Pitted-concrete-driveway_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/Pitted-concrete-driveway_mask_9.png",
+                    "label": "Popout",
+                    "score": "0.69921875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7001-26_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7001-26_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7001-26_mask_10.png",
+                    "label": "Crack",
+                    "score": "0.73046875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-46_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-46_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-46_mask_11.png",
+                    "label": "Crack",
+                    "score": "0.64453125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-46_mask_12.png",
+                    "label": "Crack",
+                    "score": "0.57421875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-46_mask_13.png",
+                    "label": "Crack",
+                    "score": "0.578125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/old-cement-wall-texture-background_493325-1497_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/old-cement-wall-texture-background_493325-1497_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/old-cement-wall-texture-background_493325-1497_mask_14.png",
+                    "label": "Popout",
+                    "score": "0.6484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/what-are-these-holes-v0-tf1h89m5q5hb1_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/what-are-these-holes-v0-tf1h89m5q5hb1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/what-are-these-holes-v0-tf1h89m5q5hb1_mask_15.png",
+                    "label": "Popout",
+                    "score": "0.72265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/what-are-these-holes-v0-tf1h89m5q5hb1_mask_16.png",
+                    "label": "Popout",
+                    "score": "0.69921875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7003-162_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7003-162_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-162_mask_17.png",
+                    "label": "Crack",
+                    "score": "0.62890625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-152_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-152_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-152_mask_18.png",
+                    "label": "Crack",
+                    "score": "0.71875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-41_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-41_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-41_mask_19.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-41_mask_20.png",
+                    "label": "Crack",
+                    "score": "0.671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-122_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-122_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-122_mask_21.png",
+                    "label": "Crack",
+                    "score": "0.63671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-122_mask_22.png",
+                    "label": "Crack",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-122_mask_23.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-122_mask_24.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-122_mask_25.png",
+                    "label": "Crack",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-122_mask_26.png",
+                    "label": "Crack",
+                    "score": "0.68359375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7003-15_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7003-15_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-15_mask_27.png",
+                    "label": "Crack",
+                    "score": "0.73046875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-15_mask_28.png",
+                    "label": "Crack",
+                    "score": "0.6484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/10021_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/10021_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/10021_jpg_mask_29.png",
+                    "label": "efflorescence",
+                    "score": "0.71875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10021_jpg_mask_30.png",
+                    "label": "efflorescence",
+                    "score": "0.74609375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-162_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-162_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-162_mask_31.png",
+                    "label": "Crack",
+                    "score": "0.63671875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7001-139_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7001-139_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7001-139_mask_32.png",
+                    "label": "Crack",
+                    "score": "0.640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7001-139_mask_33.png",
+                    "label": "Crack",
+                    "score": "0.65625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7003-18_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7003-18_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-18_mask_34.png",
+                    "label": "Crack",
+                    "score": "0.76171875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7003-16_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7003-16_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-16_mask_35.png",
+                    "label": "Crack",
+                    "score": "0.609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-16_mask_36.png",
+                    "label": "Crack",
+                    "score": "0.578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-16_mask_37.png",
+                    "label": "Crack",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7003-16_mask_38.png",
+                    "label": "Crack",
+                    "score": "0.57421875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/concrete-efflorescence-white-substance-oozing-steps-known-as-caused-salts-leeching-damp-can-be-sticky-first-259924023_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/concrete-efflorescence-white-substance-oozing-steps-known-as-caused-salts-leeching-damp-can-be-sticky-first-259924023_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/concrete-efflorescence-white-substance-oozing-steps-known-as-caused-salts-leeching-damp-can-be-sticky-first-259924023_mask_39.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/10045_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/10045_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/10045_jpg_mask_40.png",
+                    "label": "efflorescence",
+                    "score": "0.6796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/71332b074718b5893f67f6fb2aa6f73b54ffc0e3_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/71332b074718b5893f67f6fb2aa6f73b54ffc0e3_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/71332b074718b5893f67f6fb2aa6f73b54ffc0e3_mask_41.png",
+                    "label": "Popout",
+                    "score": "0.73046875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-194_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-194_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-194_mask_42.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-194_mask_43.png",
+                    "label": "Crack",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-194_mask_44.png",
+                    "label": "Crack",
+                    "score": "0.69140625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-194_mask_45.png",
+                    "label": "Crack",
+                    "score": "0.7109375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/PO1_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/PO1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/PO1_mask_46.png",
+                    "label": "Popout",
+                    "score": "0.73828125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_47.png",
+                    "label": "Popout",
+                    "score": "0.72265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_48.png",
+                    "label": "Popout",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_49.png",
+                    "label": "Popout",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_50.png",
+                    "label": "Popout",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_51.png",
+                    "label": "Popout",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_52.png",
+                    "label": "Popout",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_53.png",
+                    "label": "Popout",
+                    "score": "0.69140625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_54.png",
+                    "label": "Popout",
+                    "score": "0.7265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_55.png",
+                    "label": "Popout",
+                    "score": "0.71484375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_56.png",
+                    "label": "Popout",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/Trachyt_Herz_Jesu_Kirche_Aachen_mask_57.png",
+                    "label": "Popout",
+                    "score": "0.6484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/images-3-_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/images-3-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/images-3-_mask_58.png",
+                    "label": "Popout",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/images-3-_mask_59.png",
+                    "label": "Popout",
+                    "score": "0.66015625"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/10146_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/10146_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/10146_jpg_mask_60.png",
+                    "label": "efflorescence",
+                    "score": "0.68359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10146_jpg_mask_61.png",
+                    "label": "efflorescence",
+                    "score": "0.765625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10146_jpg_mask_62.png",
+                    "label": "efflorescence",
+                    "score": "0.734375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10146_jpg_mask_63.png",
+                    "label": "efflorescence",
+                    "score": "0.74609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10146_jpg_mask_64.png",
+                    "label": "efflorescence",
+                    "score": "0.48632812"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10146_jpg_mask_65.png",
+                    "label": "efflorescence",
+                    "score": "0.70703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10146_jpg_mask_66.png",
+                    "label": "efflorescence",
+                    "score": "0.70703125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-124_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-124_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-124_mask_67.png",
+                    "label": "Crack",
+                    "score": "0.6484375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/10062_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/10062_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/10062_jpg_mask_68.png",
+                    "label": "efflorescence",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10062_jpg_mask_69.png",
+                    "label": "efflorescence",
+                    "score": "0.6796875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10062_jpg_mask_70.png",
+                    "label": "efflorescence",
+                    "score": "0.65234375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10062_jpg_mask_71.png",
+                    "label": "efflorescence",
+                    "score": "0.68359375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/10063_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/10063_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/10063_jpg_mask_72.png",
+                    "label": "efflorescence",
+                    "score": "0.609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10063_jpg_mask_73.png",
+                    "label": "efflorescence",
+                    "score": "0.578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10063_jpg_mask_74.png",
+                    "label": "efflorescence",
+                    "score": "0.69921875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/10064_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/10064_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/10064_jpg_mask_75.png",
+                    "label": "efflorescence",
+                    "score": "0.72265625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10064_jpg_mask_76.png",
+                    "label": "efflorescence",
+                    "score": "0.65234375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7001-79_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7001-79_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7001-79_mask_77.png",
+                    "label": "Crack",
+                    "score": "0.67578125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7001-79_mask_78.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-33_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-33_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-33_mask_79.png",
+                    "label": "Crack",
+                    "score": "0.74609375"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7001-27_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7001-27_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7001-27_mask_80.png",
+                    "label": "Crack",
+                    "score": "0.61328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7001-27_mask_81.png",
+                    "label": "Crack",
+                    "score": "0.6953125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/images-6-_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/images-6-_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/images-6-_mask_82.png",
+                    "label": "Popout",
+                    "score": "0.62890625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/images-6-_mask_83.png",
+                    "label": "Popout",
+                    "score": "0.65625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/images-6-_mask_84.png",
+                    "label": "Popout",
+                    "score": "0.6328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/images-6-_mask_85.png",
+                    "label": "Popout",
+                    "score": "0.625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/images-6-_mask_86.png",
+                    "label": "Popout",
+                    "score": "0.6640625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/images-6-_mask_87.png",
+                    "label": "Popout",
+                    "score": "0.671875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/images-6-_mask_88.png",
+                    "label": "Popout",
+                    "score": "0.6953125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/images-6-_mask_89.png",
+                    "label": "Popout",
+                    "score": "0.6328125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/images-6-_mask_90.png",
+                    "label": "Popout",
+                    "score": "0.66796875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/10031_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/10031_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/10031_jpg_mask_91.png",
+                    "label": "efflorescence",
+                    "score": "0.359375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10031_jpg_mask_92.png",
+                    "label": "efflorescence",
+                    "score": "0.703125"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10031_jpg_mask_93.png",
+                    "label": "efflorescence",
+                    "score": "0.7734375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10031_jpg_mask_94.png",
+                    "label": "efflorescence",
+                    "score": "0.7109375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10031_jpg_mask_95.png",
+                    "label": "efflorescence",
+                    "score": "0.74609375"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10031_jpg_mask_96.png",
+                    "label": "efflorescence",
+                    "score": "0.4921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10031_jpg_mask_97.png",
+                    "label": "efflorescence",
+                    "score": "0.66015625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/10031_jpg_mask_98.png",
+                    "label": "efflorescence",
+                    "score": "0.6171875"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/7002-81_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/7002-81_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-81_mask_99.png",
+                    "label": "Crack",
+                    "score": "0.5625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-81_mask_100.png",
+                    "label": "Crack",
+                    "score": "0.625"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-81_mask_101.png",
+                    "label": "Crack",
+                    "score": "0.69921875"
+                },
+                {
+                    "mask": "/kaggle/working/predict/valid/7002-81_mask_102.png",
+                    "label": "Crack",
+                    "score": "0.41992188"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/10066_jpg_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/10066_jpg_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/10066_jpg_mask_103.png",
+                    "label": "efflorescence",
+                    "score": "0.64453125"
+                }
+            ]
+        },
+        {
+            "original_image": "/kaggle/working/predict/valid/anyone-know-what-these-craters-come-from-v0-u0dlp1u6el2b1_original.jpg",
+            "comparsion": "/kaggle/working/predict/valid/anyone-know-what-these-craters-come-from-v0-u0dlp1u6el2b1_comparsion.png",
+            "annotations": [
+                {
+                    "mask": "/kaggle/working/predict/valid/anyone-know-what-these-craters-come-from-v0-u0dlp1u6el2b1_mask_104.png",
+                    "label": "Popout",
+                    "score": "0.671875"
+                }
+            ]
+        }
+    ]
+}
